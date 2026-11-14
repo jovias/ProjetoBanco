@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.banco.BancoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.48 s -- in br.edu.banco.BancoServiceTest

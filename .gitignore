@@ -1,0 +1,6 @@
+target/
+dados/
+*.db
+*.db-*
+.idea/
+*.iml
